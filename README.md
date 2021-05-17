@@ -1,6 +1,7 @@
 # Description
 
-This repository is meant to serve as a general template for how to set up new repositories in the JogetOSS organization. 
+This bundle contains Date Time Duplicate Validator plugin. This plugin is a form validator plugin to check for conflict in date and time fields. Please refer to its [documentation and sample demo app](https://dev.joget.org/community/display/marketplace/Date+and+Time+Duplicate+Validator).
+
 
 # Getting Help
 
